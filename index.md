@@ -15,4 +15,5 @@ layout: page
 [Skills are the new apps](skills)
 [Your mind is for having ideas, not holding them](presence)
 [Remove yourself from the loop](out-of-the-loop)
+[Orchestration is the new programming](orchestration)
 [What this is and who it's for](about)
