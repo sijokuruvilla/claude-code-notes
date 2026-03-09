@@ -1,0 +1,13 @@
+# Site settings
+title: Claude Code Notes
+email: skg@sijokuruvilla.in
+description: >-
+  Experiments, automations and patterns from using Claude Code
+baseurl: ""
+url: "https://sijokuruvilla.github.io/claude-code-notes"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
