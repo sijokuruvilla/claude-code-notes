@@ -22,6 +22,6 @@ Skills are to AI agents what apps are to smartphones. The real difference is dee
     <a href="/presence" style="text-decoration: none; color: #0366d6;">Next: Your mind is for having ideas, not holding them →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

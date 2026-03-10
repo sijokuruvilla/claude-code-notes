@@ -76,6 +76,6 @@ The goal is to answer, before anything else asks for your attention: what does t
     <a href="/ea-briefings" style="text-decoration: none; color: #0366d6;">Next: How I automated my EA briefings →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

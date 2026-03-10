@@ -61,6 +61,6 @@ That is what this site is about.
     <a href="/not-a-developer" style="text-decoration: none; color: #0366d6;">Next: How to use Claude Code if you're not a developer →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

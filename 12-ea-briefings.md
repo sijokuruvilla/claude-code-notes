@@ -65,6 +65,6 @@ The question to ask about any recurring task: what has to happen before I do thi
     <a href="/morning-brief" style="text-decoration: none; color: #0366d6;">← Previous: My morning brief</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

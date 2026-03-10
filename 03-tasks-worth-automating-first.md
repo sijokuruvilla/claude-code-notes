@@ -24,6 +24,6 @@ What are the things like this you can think of that you wish you'd automated awa
     <a href="/skills" style="text-decoration: none; color: #0366d6;">Next: Skills are the new apps →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

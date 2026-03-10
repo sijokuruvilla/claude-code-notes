@@ -17,6 +17,6 @@ One keeps you in the loop. The other closes it.
     <a href="/presence" style="text-decoration: none; color: #0366d6;">← Previous: Your mind is for having ideas, not holding them</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

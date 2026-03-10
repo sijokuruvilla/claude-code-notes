@@ -30,6 +30,6 @@ The coffee tastes better when you're present.
     <a href="/out-of-the-loop" style="text-decoration: none; color: #0366d6;">Next: Remove yourself from the loop →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

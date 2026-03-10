@@ -68,6 +68,6 @@ The operators who build the most powerful setups do not start with the most ambi
     <a href="/claude-code-vs-chatgpt" style="text-decoration: none; color: #0366d6;">Next: Claude Code vs ChatGPT for business →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

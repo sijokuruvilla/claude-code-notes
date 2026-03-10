@@ -74,6 +74,6 @@ They are not really competing for the same job.
     <a href="/morning-brief" style="text-decoration: none; color: #0366d6;">Next: My morning brief →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

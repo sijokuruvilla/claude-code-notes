@@ -85,6 +85,6 @@ The productivity isn't in any one automation. It's in the accumulation.
     <a href="/expensive-to-carry" style="text-decoration: none; color: #0366d6;">Next: Cheap to do, expensive to carry →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>

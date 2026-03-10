@@ -32,6 +32,6 @@ The clearest way I know to think about this: every task you do has two costs. Th
     <a href="/tasks-worth-automating-first" style="text-decoration: none; color: #0366d6;">Next: The tasks worth automating first →</a>
   </div>
   <div>
-    <a href="/" style="text-decoration: none; color: #0366d6;">Home</a>
+    <a href="/notes" style="text-decoration: none; color: #0366d6;">Notes</a>
   </div>
 </nav>
