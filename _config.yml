@@ -3,8 +3,8 @@ title: Claude Code Notes
 email: skg@sijokuruvilla.in
 description: >-
   Experiments, automations and patterns from using Claude Code
-baseurl: "/claude-code-notes"
-url: "https://sijokuruvilla.github.io"
+baseurl: ""
+url: "https://claudecodenote.com"
 
 # Build settings
 markdown: kramdown
